@@ -1,0 +1,5 @@
+`/src` contains all the VHDL code for the FEMTO-MC system, including the memory subsystem (which can be gotten at [the course website](https://cscie93.dce.harvard.edu/spring2020/index.html).
+
+`/emu` contains the emulator and assembler for FEMTO-MC architecture.
+
+The slides and operations manual also provide reference material on the architecture and usage.

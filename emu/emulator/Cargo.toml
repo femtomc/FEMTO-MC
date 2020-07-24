@@ -1,0 +1,12 @@
+[package]
+name = "emulator"
+version = "0.1.0"
+authors = ["McCoy R. Becker <mccoybecker@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+assembler = { path = "../assembler" }
+arrayvec = "0.5.1"
+ncurses = "5.99.0"
